@@ -17,3 +17,59 @@ Author - Amlan Kumar
 `mvn test -Dsurefire.suiteXmlFiles=testng.xml`
 
 <img width="1215" alt="Screenshot 2023-10-31 at 12 27 28 PM" src="https://github.com/PramodDutta/AdvanceSeleniumFrameworkTTA/assets/1409610/b0905741-d88d-4559-93c2-65433e668170">
+
+### Seleniod - Docker Grid Running
+- Selenoid is a powerful tool for running Selenium tests in Docker containers.
+- which can help you manage and scale your test automation infrastructure more efficiently.
+
+
+
+![Screenshot 2024-06-13 at 15 56 21](https://github.com/PramodDutta/ATB5xWebAutomationFramework/assets/1409610/3c957a88-8cf5-4e3c-9134-9fd41fd41d9b)
+
+
+https://github.com/PramodDutta/ATB5xWebAutomationFramework/assets/1409610/1bd39751-94e8-4f46-91e4-fd79269f6ee6
+
+## How to add Log4J in the Project ?
+- Add this to the pom.xml
+```
+    <dependency>
+      <groupId>org.apache.logging.log4j</groupId>
+      <artifactId>log4j-core</artifactId>
+      <version>3.0.0-beta2</version>
+    </dependency>
+
+    <!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-api -->
+    <dependency>
+      <groupId>org.apache.logging.log4j</groupId>
+      <artifactId>log4j-api</artifactId>
+      <version>3.0.0-beta2</version>
+    </dependency> 
+```
+- Add log4j2.xml in the main folder -> resource and enter the code mentioned below
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1} - %m%n"/>
+        </Console>
+        <File name="FileLogger" fileName="logs/test.log">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1} - %m%n"/>
+        </File>
+    </Appenders>
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="FileLogger"/>
+        </Root>
+    </Loggers>
+</Configuration>
+```
+- To your test code, add this
+```
+-     private static final Logger logger = LogManager.getLogger(TestVWOLogin_PF_DM.class);
+    
+file
+logger.info("Starting Test");
+
+```
