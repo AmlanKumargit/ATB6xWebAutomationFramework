@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9028de09-cd34-45f5-93a5-cd1349f4906e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/test.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amlankumar/base/CommonToAllTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/amlankumar/base/CommonToAllTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amlankumar/tests/TestVWOLogin_PF_DM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/amlankumar/tests/TestVWOLogin_PF_DM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "TestNG.C:/Users/amlan/IdeaProjects/ATB6xWebAutomationFramework/testng.xml.executor": "Run",
     "TestNG.TestVWOLogin_PF.TestVWONegative.executor": "Run",
+    "TestNG.TestVWOLogin_PF_DM.VWONegative.executor": "Run",
     "TestNG.TestVWOLogin_PF_DM.executor": "Run",
     "TestNG.TestVWOLogin_POM.executor": "Run",
     "TestNG.TestVWOLogin_POM.testVWONeg.executor": "Run",
@@ -54,16 +59,13 @@
       <recent name="C:\Users\amlan\IdeaProjects\ATB6xWebAutomationFramework\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestVWOLogin_withLogs">
-    <configuration name="StaleElementException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.amlankumar.tests.StaleElementException" />
+  <component name="RunManager" selected="TestNG.TestVWOLogin_PF_DM.VWONegative">
+    <configuration name="C:/Users/amlan/IdeaProjects/ATB6xWebAutomationFramework/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6xWebAutomationFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.amlankumar.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,7 +87,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestVWOLogin_PF.TestVWONegative" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestVWOLogin_PF_DM.VWONegative" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6xWebAutomationFramework" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +96,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.amlankumar.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.amlankumar.tests.TestVWOLogin_PF" />
-      <option name="METHOD_NAME" value="TestVWONegative" />
+      <option name="MAIN_CLASS_NAME" value="com.amlankumar.tests.TestVWOLogin_PF_DM" />
+      <option name="METHOD_NAME" value="VWONegative" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -140,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestVWOLogin_PF_DM.VWONegative" />
+        <item itemvalue="TestNG.TestVWOLogin_PF_DM" />
+        <item itemvalue="TestNG.C:/Users/amlan/IdeaProjects/ATB6xWebAutomationFramework/testng.xml" />
         <item itemvalue="TestNG.TestVWOLogin_withLogs" />
         <item itemvalue="TestNG.TestVWOLogin_withLogs.VWONegative" />
-        <item itemvalue="TestNG.TestVWOLogin_PF_DM" />
-        <item itemvalue="Application.StaleElementException" />
-        <item itemvalue="TestNG.TestVWOLogin_PF.TestVWONegative" />
       </list>
     </recent_temporary>
   </component>

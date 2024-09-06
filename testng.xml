@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/amlan/IdeaProjects/ATB6xWebAutomationFramework" parallel="methods">
     <classes>
-        <class name="com.amlankumar.tests.TestVWOLogin_POM">
+        <class name="com.amlankumar.tests.TestVWOLogin_PF_DM">
         </class>
     </classes>
     </test>
