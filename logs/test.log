@@ -30,3 +30,45 @@
 2024-09-06 00:56:33 INFO  TestVWOLogin_withLogs - Starting test -- Opening URL
 2024-09-06 00:56:41 INFO  TestVWOLogin_withLogs - Logging in
 2024-09-06 00:56:45 INFO  TestVWOLogin_withLogs - Verifying result
+2024-09-06 20:53:02 INFO  TestVWOLogin_withLogs - Starting test -- Opening URL
+2024-09-06 20:53:13 INFO  TestVWOLogin_withLogs - Logging in
+2024-09-06 20:53:17 INFO  TestVWOLogin_withLogs - Verifying result
+2024-09-06 20:55:35 INFO  TestVWOLogin_withLogs - Starting test -- Opening URL
+2024-09-06 20:55:45 INFO  TestVWOLogin_withLogs - Logging in
+2024-09-06 20:55:51 INFO  TestVWOLogin_withLogs - Verifying result
+2024-09-06 20:56:31 INFO  TestVWOLogin_withLogs - Starting test
+2024-09-06 20:56:32 INFO  TestVWOLogin_withLogs - Opening URL
+2024-09-06 20:56:37 INFO  TestVWOLogin_withLogs - Verifying result
+2024-09-06 20:58:46 INFO  TestVWOLogin_withLogs - Starting test -- Opening URL
+2024-09-06 20:58:57 INFO  TestVWOLogin_withLogs - Logging in
+2024-09-06 20:59:02 INFO  TestVWOLogin_withLogs - Verifying result
+2024-09-06 20:59:44 INFO  TestVWOLogin_withLogs - Starting test
+2024-09-06 20:59:44 INFO  TestVWOLogin_withLogs - Opening URL
+2024-09-06 20:59:56 INFO  TestVWOLogin_withLogs - Verifying result
+2024-09-06 21:03:48 INFO  TestVWOLogin_withLogs - Starting test -- Opening URL
+2024-09-06 21:04:01 INFO  TestVWOLogin_withLogs - Logging in
+2024-09-06 21:04:06 INFO  TestVWOLogin_withLogs - Verifying result
+2024-09-06 21:05:00 INFO  TestVWOLogin_withLogs - Starting test
+2024-09-06 21:05:00 INFO  TestVWOLogin_withLogs - Opening URL
+2024-09-06 21:05:18 INFO  TestVWOLogin_withLogs - Verifying result
+2024-09-06 21:33:50 INFO  TestVWOLogin_withLogs - Starting test -- Opening URL
+2024-09-06 21:33:59 INFO  TestVWOLogin_withLogs - Logging in
+2024-09-06 21:34:02 INFO  TestVWOLogin_withLogs - Verifying result
+2024-09-06 22:00:18 INFO  TestVWOLogin_withLogs - Starting test -- Opening URL
+2024-09-06 22:00:26 INFO  TestVWOLogin_withLogs - Logging in
+2024-09-06 22:00:30 INFO  TestVWOLogin_withLogs - Verifying result
+2024-09-06 22:00:54 INFO  TestVWOLogin_withLogs - Starting test -- Opening URL
+2024-09-06 22:01:03 INFO  TestVWOLogin_withLogs - Logging in
+2024-09-06 22:01:07 INFO  TestVWOLogin_withLogs - Verifying result
+2024-09-06 22:08:21 INFO  TestVWOLogin_withLogs - Starting test -- Opening URL
+2024-09-06 22:08:29 INFO  TestVWOLogin_withLogs - Logging in
+2024-09-06 22:08:33 INFO  TestVWOLogin_withLogs - Verifying result
+2024-09-06 22:14:55 INFO  TestVWOLogin_withLogs - Starting test -- Opening URL
+2024-09-06 22:15:06 INFO  TestVWOLogin_withLogs - Logging in
+2024-09-06 22:15:10 INFO  TestVWOLogin_withLogs - Verifying result
+2024-09-06 22:15:53 INFO  TestVWOLogin_withLogs - Starting test
+2024-09-06 22:15:53 INFO  TestVWOLogin_withLogs - Opening URL
+2024-09-06 22:16:06 INFO  TestVWOLogin_withLogs - Verifying result
+2024-09-06 22:16:55 INFO  TestVWOLogin_withLogs - Starting test -- Opening URL
+2024-09-06 22:17:03 INFO  TestVWOLogin_withLogs - Logging in
+2024-09-06 22:17:07 INFO  TestVWOLogin_withLogs - Verifying result

@@ -7,8 +7,7 @@
     <list default="true" id="9028de09-cd34-45f5-93a5-cd1349f4906e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/test.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/amlankumar/base/CommonToAllTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/amlankumar/base/CommonToAllTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/amlankumar/tests/TestVWOLogin_PF_DM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/amlankumar/tests/TestVWOLogin_PF_DM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,31 +34,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.StaleElementException.executor": "Run",
-    "Application.TestVWOLogin.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TestNG.C:/Users/amlan/IdeaProjects/ATB6xWebAutomationFramework/testng.xml.executor": "Run",
-    "TestNG.TestVWOLogin_PF.TestVWONegative.executor": "Run",
-    "TestNG.TestVWOLogin_PF_DM.VWONegative.executor": "Run",
-    "TestNG.TestVWOLogin_PF_DM.executor": "Run",
-    "TestNG.TestVWOLogin_POM.executor": "Run",
-    "TestNG.TestVWOLogin_POM.testVWONeg.executor": "Run",
-    "TestNG.TestVWOLogin_withLogs.VWONegative.executor": "Run",
-    "TestNG.TestVWOLogin_withLogs.executor": "Run",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/amlan/IdeaProjects/ATB6xWebAutomationFramework"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.StaleElementException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestVWOLogin.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ATB6xWebAutomationFramework [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ATB6xWebAutomationFramework [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/amlan/IdeaProjects/ATB6xWebAutomationFramework/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestVWOLogin_PF.TestVWONegative.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestVWOLogin_PF_DM.VWONegative.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestVWOLogin_PF_DM.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestVWOLogin_POM.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestVWOLogin_POM.testVWONeg.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestVWOLogin_withLogs.VWONegative.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestVWOLogin_withLogs.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/amlan/IdeaProjects/ATB6xWebAutomationFramework&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\amlan\IdeaProjects\ATB6xWebAutomationFramework\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestVWOLogin_PF_DM.VWONegative">
+  <component name="RunManager" selected="TestNG.C:/Users/amlan/IdeaProjects/ATB6xWebAutomationFramework/testng.xml">
     <configuration name="C:/Users/amlan/IdeaProjects/ATB6xWebAutomationFramework/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6xWebAutomationFramework" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -142,9 +143,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/amlan/IdeaProjects/ATB6xWebAutomationFramework/testng.xml" />
         <item itemvalue="TestNG.TestVWOLogin_PF_DM.VWONegative" />
         <item itemvalue="TestNG.TestVWOLogin_PF_DM" />
-        <item itemvalue="TestNG.C:/Users/amlan/IdeaProjects/ATB6xWebAutomationFramework/testng.xml" />
         <item itemvalue="TestNG.TestVWOLogin_withLogs" />
         <item itemvalue="TestNG.TestVWOLogin_withLogs.VWONegative" />
       </list>
